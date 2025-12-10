@@ -62,11 +62,11 @@ SoundScapes is a cross-platform desktop application that explores the concept of
 This project uses react-scripts (Create React App), which has known dev-dependency vulnerabilities in nth-check and postcss. These are build-time tools and do not affect the security or functionality of the compiled Electron application.
 
 ## Tutorials & Resources:
-https://react.dev/
-https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app
-https://www.youtube.com/watch?v=O6P86uwfdR0
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API
-https://www.youtube.com/watch?v=b_MMGJiUcbM
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API
-https://www.youtube.com/watch?v=IBHpSkGZtNM
-https://www.youtube.com/watch?v=m3OjWNFREJo
+- https://react.dev/
+- https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app
+- https://www.youtube.com/watch?v=O6P86uwfdR0
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API
+- https://www.youtube.com/watch?v=b_MMGJiUcbM
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API
+- https://www.youtube.com/watch?v=IBHpSkGZtNM
+- https://www.youtube.com/watch?v=m3OjWNFREJo
