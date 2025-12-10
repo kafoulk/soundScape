@@ -262,7 +262,7 @@ const App = () => {
     <div className="app-container">
       <div className="header-section">
         <h1>SoundScapes</h1>
-        <p style={{ maxWidth: "600px", margin: "0 auto", lineHeight: "1.6" }}>
+        <p>
           Experience drawing through a <strong>synesthesia lens</strong>. Pick
           your shape, lock in your color, and sketch your rhythm on the
           timeline.
