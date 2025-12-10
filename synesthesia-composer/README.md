@@ -1,6 +1,8 @@
 # SoundScapes: Synesthesia Composer
 
 This project is a web-based application designed to offer a real-time, synesthetic experience by converting user drawings into dynamic soundscapes. The application allows a user to draw shapes and lines on a canvas, where attributes like position, color, and size are instantly mapped to musical parameters (e.g., pitch, duration, and timbre). The purpose is to provide an artistic tool that merges visual design and musical composition in a unique, accessible way. It addresses the limitation of traditional digital art tools and music sequencers by creating a direct, real-time feedback loop between visual input and audio output, turning simple drawing actions into meaningful, evolving sound art.
+<img width="1599" height="937" alt="image" src="https://github.com/user-attachments/assets/ba879961-20ac-4a08-a88b-68b5104e7cbd" />
+
 
 ## Project Summary
 
